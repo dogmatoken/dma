@@ -1,2 +1,5 @@
-# dma
-dma token files
+# DMA
+
+Dogma (DMA) token files.
+
+Building...
